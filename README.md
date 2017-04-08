@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/source-map-support.png?downloads=true)](https://www.npmjs.com/package/source-map-support)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-source-map-support/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-source-map-support%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-source-map-support/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-source-map-support/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-source-map-support%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-source-map-support/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-source-map-support/build/screenCapture.npmPackageListing.svg)
 
